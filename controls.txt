@@ -1,0 +1,8 @@
+E to punch
+R to kick
+
+WASD to move
+Space to jump
+
+Move the mouse to move the camera
+F to reset camera
